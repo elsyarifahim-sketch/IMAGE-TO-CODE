@@ -1,0 +1,6 @@
+{
+  "name": "CodeVision AI – Image to Code Converter",
+  "description": "AI-powered web application that converts UI screenshots, wireframes, and design images into clean, editable source code with real-time live preview.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
